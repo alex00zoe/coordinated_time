@@ -19,3 +19,6 @@ www.douban.com
 matrix67.com
 https://chuansongme.com/
 medium.com
+
+http://www.cas.cn/
+http://english.cas.cn/
